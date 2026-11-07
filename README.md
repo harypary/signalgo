@@ -1,4 +1,4 @@
-# 信号でGo! / Signal Go!
+# くるっとロード / Kurutto Road
 
 Support and privacy pages for the iOS app. Served with GitHub Pages from `docs/`.
 
